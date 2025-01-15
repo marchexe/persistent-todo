@@ -2,6 +2,6 @@
 
 will be updated.
 
-https://whznot.github.io/persistent-todo
+https://marchexe.github.io/persistent-todo
 
 ![durov vo daet](durov.jpg)
